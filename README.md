@@ -1,5 +1,4 @@
-# 🚀 Humanizer X
-### The High-Performance AI-to-Human Content Transformation Ecosystem
+# <table><tr><td><img src="humanizerx.png" width="50" height="50" align="center"></td><td>&nbsp; Humanizer X</td></tr></table>
 
 **Humanizer X** is a full-stack intelligence platform designed to bridge the gap between mechanical AI data and natural human communication. Built with a focus on linguistic fluidity and high-concurrency performance, it serves as a professional-grade suite for content creators, marketers, and developers.
 
