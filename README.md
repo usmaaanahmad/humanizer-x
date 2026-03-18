@@ -1,48 +1,69 @@
-# 👋 Hello, I'm Usman Ahmad
-### Full-Stack Architect | Brand Strategist | Founder of Humanizer X
+🚀 Humanizer X
+The High-Performance AI-to-Human Content Transformation Ecosystem
+Humanizer X is a full-stack intelligence platform designed to bridge the gap between mechanical AI data and natural human communication. Built with a focus on linguistic fluidity and high-concurrency performance, it serves as a professional-grade suite for content creators, marketers, and developers.
 
-I specialize in bridging the gap between high-performance engineering and human-centric design. With over **3.5 years of experience**, I build digital ecosystems that don't just work—they resonate.
+Live Application | Support & Feedback
 
----
+🛠 Core Features
+1. 🤖 Advanced AI Humanizer
+The flagship engine that transforms rigid, predictable AI outputs (GPT-4, Claude, Gemini) into fluid, conversational text.
 
-## 🚀 What I Do
-* **Architecting Scalable Apps:** Expert in Next.js 14, React, and Supabase.
-* **AI Content Humanization:** Developing the logic behind **Humanizer X** to make AI text indistinguishable from human writing.
-* **Brand & Identity:** Crafting modern retail and e-commerce experiences (Voltiquee, Zeene Fashion).
-* **Design Systems:** Professional Web & Graphic Design with a focus on UI/UX fluidity.
+Perplexity & Burstiness Adjustment: Fine-tunes the randomness and structural variety of sentences.
 
----
+Tone Selection: Choose between Professional, Creative, or Casual outputs.
 
-## 🛠 Tech Stack & Tools
+2. 🔍 GPT & AI Detection Checker
+An integrated scanner that provides a probability score of AI involvement.
 
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | React, Next.js (App Router), TypeScript, Tailwind CSS, Vite |
-| **Backend** | Node.js, Python (Intelligence Layer), PostgreSQL, Supabase |
-| **Design** | Figma, Adobe Creative Suite, Brand Strategy |
-| **DevOps** | Vercel, Git, Edge Functions |
+Multi-Model Analysis: Scans for patterns common in Large Language Models (LLMs).
 
----
+Highlighting Logic: Identifies specific sections of text that appear "too mechanical."
 
-## 💎 Featured Projects (Live)
-* **[Humanizer X](https://usmaaan.site):** An AI-refinement ecosystem built with Next.js & Python.
-* **Voltiquee:** A modern retail experience focused on high-conversion UI.
-* **Zeene Fashion:** Custom-stitching e-commerce platform (#TailoredWithLove).
+3. 📊 Real-Time Word & Character Counter
+A streamlined utility for precision editing.
 
----
+Live Metrics: Dynamic updates as you type or paste.
 
-## 📊 GitHub Strategy
-> **Note:** I treat GitHub as my professional portfolio and project management hub. While my core intellectual property remains in private repositories to protect client and startup integrity, I use this space for:
-> * **Open Source Contributions:** Improving documentation and UI for the tools I use.
-> * **Project Management:** Tracking roadmaps via GitHub Issues and Projects.
-> * **Public Case Studies:** Documenting architectural decisions and design systems.
+Reading Time Estimation: Calculated based on average human processing speeds.
 
----
+4. 🛡 Secure Admin Panel
+A private dashboard built for managing the ecosystem's backend operations.
 
-## 📫 Let's Connect
-* **Portfolio:** [usmaaan.site](https://usmaaan.site)
-* **WhatsApp:** [Your Number]
-* **LinkedIn:** [Your Profile Link]
+User Management: Track active sessions and subscription tiers.
 
----
-*“Designing the future, one pixel and one line of logic at a time.”*
+Usage Analytics: Monitor API calls and humanization volume.
+
+Ad-Serving Control: Manage the custom internal ad-delivery logic.
+
+🏗 Technical Architecture
+Humanizer X is built on a Modern Full-Stack Architecture optimized for speed and security.
+
+Frontend: Next.js 14 (App Router), React, TypeScript, Tailwind CSS.
+
+Database: Supabase (PostgreSQL) for real-time data persistence and secure user authentication.
+
+Intelligence Layer: Python-based NLP (Natural Language Processing) engine for text refinement.
+
+Infrastructure: Vercel Edge Functions for low-latency global delivery.
+
+🗄 Database Schema & Security
+The system leverages Supabase to manage:
+
+Row-Level Security (RLS): Ensures user data remains private and inaccessible to others.
+
+PostgreSQL Functions: Handles complex data relations for the ad-serving engine and user credits.
+
+📊 Project Status & Roadmap
+[x] v1.0: Core Humanization Engine & Next.js Integration.
+
+[x] v1.1: Supabase DB Implementation & Admin Dashboard.
+
+[x] v1.2: AI Detection & Word Counter Logic.
+
+[ ] v2.0: Browser Extension & API for Third-Party Developers.
+
+⚖️ Intellectual Property Notice
+Proprietary Project: The source code (/src, /lib, /api) for Humanizer X is kept in a private repository to protect the underlying algorithms and business logic. This repository serves as the public documentation, issue tracker, and architectural showcase.
+
+👨‍💻 Developed By
+Usman Ahmad Founder of Humanizer X | Full-Stack Architect Portfolio | LinkedIn
